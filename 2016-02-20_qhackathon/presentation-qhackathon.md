@@ -130,4 +130,7 @@ Showcase for iOS
 ---
 #Q&A
 
+sensorberg support:  https://sensorberg.zendesk.com/hc/en-us
+tutorials: [developer.sensorberg.com/tutorials](https://developer.sensorberg.com/tutorials)
+
 
